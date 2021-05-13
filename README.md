@@ -3,6 +3,8 @@
 * [aws-diagrams-resources.pptx](aws-diagrams-resources.pptx)
 * [AWS-Architecture-Icons-Deck_For-Light-BG_20200430.pptx](AWS-Architecture-Icons-Deck_For-Light-BG_20200430.pptx)
 * reference reinvent, etc. decks on [AWS Events Content](https://aws.amazon.com/events/events-content/) for examples/ideas.
+* [AWS Solutions Implementations](https://aws.amazon.com/solutions/implementations/) - each has an architecture section with diagram
+* examples via evernote notes via search `tag:diagram tag:example`
 * [`products_services_sprite_sheet.png`](products_services_sprite_sheet.png)
     <img src="products_services_sprite_sheet.png" alt="" width="" />
 * various icon and images on <https://aws.amazon.com/> for service categories, industries, etc.
